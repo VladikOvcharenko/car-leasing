@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Toyota Crown 2023",
+    "startPrice": 39900,
+    "monthPrice": 650,
+    "imgSrc": "car-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Toyota Prius 2023",
+    "startPrice": 39900,
+    "monthPrice": 400,
+    "imgSrc": "car-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Prius Prime 2023",
+    "startPrice": 39900,
+    "monthPrice": 450,
+    "imgSrc": "car-3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Hyundai Kona 2023",
+    "startPrice": 39900,
+    "monthPrice": 510,
+    "imgSrc": "car-4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Ford Explorer 2023",
+    "startPrice": 39900,
+    "monthPrice": 1013,
+    "imgSrc": "car-5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Santa  Fe 2023",
+    "startPrice": 39900,
+    "monthPrice": 739,
+    "imgSrc": "car-6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "KIA Niro 2023",
+    "startPrice": 39600,
+    "monthPrice": 554,
+    "imgSrc": "car-7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Chevrolet Silverado",
+    "startPrice": 62260,
+    "monthPrice": 1032,
+    "imgSrc": "car-8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Honda CR-V 2023",
+    "startPrice": 35650,
+    "monthPrice": 591,
+    "imgSrc": "car-9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Hyundai Tucson",
+    "startPrice": 31885,
+    "monthPrice": 528,
+    "imgSrc": "car-10.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Chevrolet Equinox ",
+    "startPrice": 28430,
+    "monthPrice": 471,
+    "imgSrc": "car-11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Jeep Wrangler 2023",
+    "startPrice": 60000,
+    "monthPrice": 997,
+    "imgSrc": "car-12.jpg"
+  }
+]
